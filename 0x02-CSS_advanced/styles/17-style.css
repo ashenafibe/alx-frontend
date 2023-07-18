@@ -442,6 +442,8 @@ color:var(--color-primary);
 }
 
 .section-header{
+
+  text-align: var(--section-header-align);
   padding: var(--section-header-padding);
 }
 
